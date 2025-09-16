@@ -1,0 +1,22 @@
+.vc-linksee-badge {
+    align-items: center;
+    background: var(--background-mod-strong);
+    border-radius: 4px;
+    display: inline-flex;
+    line-height: 16 !important;
+    padding: 2px 4px;
+    vertical-align: middle;
+
+    margin: -2px 0px 0px 4px;
+
+    border: 0;
+    font-family: inherit;
+    font-size: 0.8rem;
+    font-style: inherit;
+    font-weight: 600;
+
+    color: var(--text-muted);
+    height: 0.9rem;
+
+    user-select: none;
+}
